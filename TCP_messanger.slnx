@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="02_TCP_client_Task2/02_TCP_client_Task2.csproj" Id="cdb13df8-f9ed-46dd-9c26-e6724f57ea24" />
+  <Project Path="02_TCP_server_Task2/02_TCP_server_Task2.csproj" Id="81e826c3-d3da-48c4-8848-0aca51536146" />
   <Project Path="TCP_client/TCP_client.csproj" />
   <Project Path="TCP_server/TCP_server.csproj" />
 </Solution>
