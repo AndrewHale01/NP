@@ -3,6 +3,8 @@
   <Project Path="02_TCP_server_Task2/02_TCP_server_Task2.csproj" Id="81e826c3-d3da-48c4-8848-0aca51536146" />
   <Project Path="03_TCP_client(qoute)/03_TCP_client(qoute).csproj" Id="7e4c9a50-ac75-46bb-9031-2976d41388e2" />
   <Project Path="03_TCP_server(qoute)/03_TCP_server(qoute).csproj" Id="29a3e2ef-8632-40bb-b599-98979332cb8d" />
+  <Project Path="04_HTTP_downloader/04_HTTP_downloader.csproj" Id="3cab20df-1171-4377-8470-c2537e385042" />
+  <Project Path="04_HTTP_json/04_HTTP_json.csproj" Id="5b03f4d9-6fb5-45d0-b479-621e5129bd13" />
   <Project Path="TCP_client/TCP_client.csproj" />
   <Project Path="TCP_server/TCP_server.csproj" />
 </Solution>
