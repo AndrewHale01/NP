@@ -5,6 +5,7 @@
   <Project Path="03_TCP_server(qoute)/03_TCP_server(qoute).csproj" Id="29a3e2ef-8632-40bb-b599-98979332cb8d" />
   <Project Path="04_HTTP_downloader/04_HTTP_downloader.csproj" Id="3cab20df-1171-4377-8470-c2537e385042" />
   <Project Path="04_HTTP_json/04_HTTP_json.csproj" Id="5b03f4d9-6fb5-45d0-b479-621e5129bd13" />
+  <Project Path="05_SMTP_Mail_Sender/05_SMTP_Mail_Sender.csproj" Id="b98b3f9f-1a14-4218-a511-5260ee279499" />
   <Project Path="TCP_client/TCP_client.csproj" />
   <Project Path="TCP_server/TCP_server.csproj" />
 </Solution>
